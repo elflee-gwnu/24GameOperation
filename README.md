@@ -1,2 +1,2 @@
-2024 GameOperation
-강릉원주대학교 게임설계및운영
+수업이름 : 2024 GameOperation
+학교 : 강릉원주대학교
